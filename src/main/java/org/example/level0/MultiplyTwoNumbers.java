@@ -10,7 +10,6 @@ public class MultiplyTwoNumbers {
         int num1 = 3;
         int num2 = 4;
         System.out.println(solution(num1, num2));
-
     }
 
     static int solution(int num1, int num2) {
