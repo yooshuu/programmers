@@ -9,7 +9,7 @@ public class IsHarshadNumber {
          */
 
         int x = 10;
-        System.out.println(solution(x));;
+        System.out.println(solution(x));
     }
 
     static boolean solution(int x) {
